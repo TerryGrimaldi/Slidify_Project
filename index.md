@@ -53,6 +53,6 @@ logo        : tg.jpg
 The Storm Database app can be obtained from:  
 
 * Online version [Shinyapp.io](https://terrygrimaldi.shinyapps.io/Shiny_Project/)
-* Fork from [GitHub](https://github.com/TerryGrimaldi/DevDP_proj.git) 
+* Fork from [GitHub](https://github.com/TerryGrimaldi/Slidify_Project.git) 
 
 --- .class #id
